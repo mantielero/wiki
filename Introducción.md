@@ -218,7 +218,7 @@ $$
  \frac{\partial z_i}{\partial x_j} \neq \frac{\partial z_j}{\partial x_i}
 $$
 
-por lo que :math:`\delta y` no es una diferencial exacta y su integral depende de la trayectoria (integral de línea).
+por lo que $\delta y$ no es una diferencial exacta y su integral depende de la trayectoria (integral de línea).
 
   
 
@@ -1196,5 +1196,5 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTkyNzM3MzhdfQ==
+eyJoaXN0b3J5IjpbLTUwMTAzNzc3MCwtMTQ1OTI3MzczOF19
 -->
