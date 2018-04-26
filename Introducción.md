@@ -509,7 +509,7 @@ $$
 
 pero debido a la pequeñez de esta unidad se utiliza el $kPa = 10^3 Pa$ y el $MPa= 10^6 Pa$.
 
-Aunque no sea del sistema internacional, es frecuente expresar la presión en bares (:math:`1bar = 10^5 Pa`). La presión atmosférica estándar es:  :math:`1,01325 bar`.
+Aunque no sea del sistema internacional, es frecuente expresar la presión en bares ($1bar = 10^5 Pa$). La presión atmosférica estándar es:  $1,01325 bar$.
 
   
 
@@ -523,15 +523,9 @@ La noción de temperatura es compleja y a lo largo de nuestro estudio la veremos
 
   
 
-Noción intuitiva de temperatura
-
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-  
+### Noción intuitiva de temperatura
 
 La sensación táctil de caliente y frío proporciona la primera aproximación experimental a la noción de temperatura, y se dice que un cuerpo caliente tiene mayor temperatura que un cuerpo frío. No obstante, esta noción resulta insuficiente a la hora de proceder a una evaluación cuantitativa de esta magnitud ya que ni siquiera es capaz de establecer, a partir de ella, un criterio de igualdad (recuérdese la distinta sensación producida por el contacto con un trozo de hierro o un trozo de corcho o madera, mantenidos en un mismo ambiente frío). Debido a esto, es preciso revestir adecuadamente estas sensaciones de caliente y frío a fin de convertirlas en conceptos cuantitativamente manejables. Para ello se establecen las definiciones de pared diatèrmica, pared adiabática y equilibrio térmico.
-
-  
 
 Pared diatérmana y pared adiabática. Equilibrio térmico
 
@@ -1027,6 +1021,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjk0NDk5OSw4ODA2MDAzMTMsLTE1Nj
-YzODcxMzAsMjAwMDI1Njg1NSwzMDIxOTYxMDBdfQ==
+eyJoaXN0b3J5IjpbMTgxNDE4MTI2LDg4MDYwMDMxMywtMTU2Nj
+M4NzEzMCwyMDAwMjU2ODU1LDMwMjE5NjEwMF19
 -->
