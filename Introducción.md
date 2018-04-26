@@ -233,15 +233,9 @@ Como se ha dicho antes, en un estado dado cada propiedad tiene un valor definido
 
   
 
-Propiedades extensivas, intensivas y específicas
-
-''''''''''''''''''''''''''''''''''''''''''''''''
-
-  
+#### Propiedades extensivas, intensivas y específicas
 
 Las propiedades termodinámicas pueden dividirse en dos grandes grupos: propiedades extensivas y propiedades intensivas.
-
-  
 
 A una propiedad se le denomina extensiva si su valor para el sistema en conjunto es la suma del valor correspondiente a cada parte en las que el sistema puede dividirse. Entre ellas se pueden citar la masa y el volumen, así como muchas otras que se irán definiendo a lo largo del curso.
 
@@ -259,21 +253,19 @@ Matemáticamente, se puede formular todo lo dicho recurriendo al concepto de fun
 
   
 
-.. math::
-
+$$
  Y(\lambda X_1, \lambda X_2, ..., \lambda X_n) = \lambda^\alpha Y(X_1, X_2, ..., X_n)
+$$
 
-en la que las :math:`X_i` son propiedades extensivas del sistema.
-
+en la que las $X_i$ son propiedades extensivas del sistema.
   
 
 Para estas funciones se cumple el teorema de Euler:
 
   
-
-.. math::
-
+$$
  \sum X_i \frac{\partial Y}{\partial X_i} = \alpha Y
+$$
 
 También se verifica que si una función es homogénea de grado :math:`\alpha`  su derivada de orden *p* es homogénea de grado :math:`\alpha -p`. En esta expresión *p* es un entero positivo, pero :math:`\alpha` no necesita ser un entero mayor que *p*.
 
@@ -1191,6 +1183,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQyODg5MzIsLTUwMTAzNzc3MCwtMT
-Q1OTI3MzczOF19
+eyJoaXN0b3J5IjpbMTA5ODYyNDIwLC0xNzY0Mjg4OTMyLC01MD
+EwMzc3NzAsLTE0NTkyNzM3MzhdfQ==
 -->
