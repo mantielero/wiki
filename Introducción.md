@@ -972,12 +972,10 @@ utilizando el signo + cuando el extremo superior de M’ está por encima del de
 Las lecturas de presión han de corregirse debido a diversas causas de error, entre las que se pueden citar: la presencia de gas en diversos espacios muertos, en los que el gas se encuentra a temperatura distinta que en B; presencia de gradientes de temperatura y presión en el capilar que une B con el medidor de presión, etc. Algunas de estas causas son corregibles por diseño y otras son evaluables, por lo que el valor de *p* se puede determinar con bastante precisión. Este valor de *p* corregido es el que se lleva a la fórmula correspondiente y mediante ella se calcula :math:`\Theta (p)`:
 
   
-
-.. math::
-
+$$
  \Theta (p) = 273.16 \frac{p}{p_3} K
-
-donde *p* y :math:`_3` son las lecturas obtenidas llevando el termómetro en contacto con el sistema cuya temperatura se quiere determinar y la fuente en el punto triple, respectivamente.
+$$
+donde *p* y $p_3$ son las lecturas obtenidas llevando el termómetro en contacto con el sistema cuya temperatura se quiere determinar y la fuente en el punto triple, respectivamente.
 
   
 
@@ -1001,11 +999,9 @@ En la figura 1.11 se han representado los datos experimentales obtenidos al calc
 
 Es importante destacar el hecho de que, según disminuye la masa de gas en el termómetro, los valores de temperatura indicados por los distintos gases se van aproximando. En el límite, cuando la presión en el punto triple se anula (valor que en la realidad coincidiría con la anulación del gas), los datos de los cinco termómetros coinciden. Basándose en este hecho se establece la definición de la escala de gas ideal, que puede resumirse en la ecuación:
 
-  
-
-.. math::
-
+$$
  T = 273,16 \lim_{p_3 \rightarrow 0} \left( \frac{p}{p_3} \right) K
+$$
 
 Figura 1.11 Punto de ebullición del agua en función del tipo de gas y masa del mismo, en el termómetro
 
@@ -1019,11 +1015,7 @@ Lo dicho anteriormente indica que la escala de gas ideal no resulta una escala c
 
   
 
-Escala Internacional de Temperatura
-
-'''''''''''''''''''''''''''''''''''
-
-  
+### Escala Internacional de Temperatura
 
 Para evitar la molestia que conlleva la utilización de la escala de gas ideal se utiliza una serie de termómetros secundarios, cuya calibración se realiza basándose en la escala de gas ideal. Para ello, se divide la escala de temperatura en intervalos y en cada uno se utiliza un termómetro secundario con funciones que relacionan los valores medidos con este termómetro y los correspondientes valores de la escala de gas ideal.
 
@@ -1137,5 +1129,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDI1Njg1NSwzMDIxOTYxMDBdfQ==
+eyJoaXN0b3J5IjpbLTIwOTQ1NTc1NzcsMjAwMDI1Njg1NSwzMD
+IxOTYxMDBdfQ==
 -->
