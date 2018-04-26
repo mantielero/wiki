@@ -527,13 +527,9 @@ La noción de temperatura es compleja y a lo largo de nuestro estudio la veremos
 
 La sensación táctil de caliente y frío proporciona la primera aproximación experimental a la noción de temperatura, y se dice que un cuerpo caliente tiene mayor temperatura que un cuerpo frío. No obstante, esta noción resulta insuficiente a la hora de proceder a una evaluación cuantitativa de esta magnitud ya que ni siquiera es capaz de establecer, a partir de ella, un criterio de igualdad (recuérdese la distinta sensación producida por el contacto con un trozo de hierro o un trozo de corcho o madera, mantenidos en un mismo ambiente frío). Debido a esto, es preciso revestir adecuadamente estas sensaciones de caliente y frío a fin de convertirlas en conceptos cuantitativamente manejables. Para ello se establecen las definiciones de pared diatèrmica, pared adiabática y equilibrio térmico.
 
-Pared diatérmana y pared adiabática. Equilibrio térmico
+### Pared diatérmana y pared adiabática. Equilibrio térmico
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-  
-
-Considérese la experiencia siguiente, esquematizada en la figura 1.5: dos recipientes de paredes rígidas A y B contienen el mismo gas con la misma densidad p y presiones distintas :math:`P_A` y :math:`P_B` respectivamente. Los recipientes se encuentran inicialmente separados, sin que pueda suponerse ninguna influencia entre ellos. A continuación se aproximan entre sí, hasta conseguir el contacto físico. Una vez alcanzado dicho contacto pueden ocurrir dos cosas:
+Considérese la experiencia siguiente, esquematizada en la figura 1.5: dos recipientes de paredes rígidas A y B contienen el mismo gas con la misma densidad p y presiones distintas $P_A$ y $P_B$ respectivamente. Los recipientes se encuentran inicialmente separados, sin que pueda suponerse ninguna influencia entre ellos. A continuación se aproximan entre sí, hasta conseguir el contacto físico. Una vez alcanzado dicho contacto pueden ocurrir dos cosas:
 
   
 
@@ -549,11 +545,8 @@ Considérese la experiencia siguiente, esquematizada en la figura 1.5: dos recip
 
   
 
-a)	que la presión inicial en cada uno de los recipientes se mantenga después de un tiempo suficientemente largo, de forma que :math:`p_{A}'' = p_{A}'` y :math:`p_{B}'' = p_{B}'`.
-
-  
-
-b)	que la presión vaya cambiando y después de un tiempo suficientemente largo :math:`p_A'' = p_B''`.
+a)	que la presión inicial en cada uno de los recipientes se mantenga después de un tiempo suficientemente largo, de forma que $p_{A}'' = p_{A}'$ y $p_{B}'' = p_{B}'$.
+b)	que la presión vaya cambiando y después de un tiempo suficientemente largo $p_A'' = p_B''$.
 
   
 
@@ -1021,6 +1014,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDE4MTI2LDg4MDYwMDMxMywtMTU2Nj
+eyJoaXN0b3J5IjpbMTUyMjMwNDU1LDg4MDYwMDMxMywtMTU2Nj
 M4NzEzMCwyMDAwMjU2ODU1LDMwMjE5NjEwMF19
 -->
