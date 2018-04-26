@@ -460,10 +460,6 @@ Es preciso insistir en que la magnitud que utiliza la termodinámica es la presi
 
 La determinación de la presión mediante la lectura de una columna de líquido, como indica la figura 1.2, es el fundamento de muchos instrumentos utilizados para la medida de presiones. Para evaluar los cambios de presión dentro del fluido, en presencia del campo gravitatorio, se hace un balance de fuerzas en un elemento de la columna fluida, como se muestra en la figura 1.3.
 
-  
-
-
-
 $$\begin{array}{c}
  p_z \delta A &= p_{z+dz} \delta A + \rho g \delta A dz \\
  p_z &= p_{z+dz} + \rho g dz \\
@@ -507,25 +503,17 @@ Cuando la presión del recinto en el que se efectúa la medición es inferior a 
 
 En el sistema internacional la presión se expresa en pascales:
 
-  
-
-.. math::
-
+$$
  1Pa = 1N \cdot m^{-2}
+$$
 
-pero debido a la pequeñez de esta unidad se utiliza el :math:`kPa = 10^3 Pa` y el :math:`MPa= 10^6 Pa`.
-
-  
+pero debido a la pequeñez de esta unidad se utiliza el $kPa = 10^3 Pa$ y el $MPa= 10^6 Pa$.
 
 Aunque no sea del sistema internacional, es frecuente expresar la presión en bares (:math:`1bar = 10^5 Pa`). La presión atmosférica estándar es:  :math:`1,01325 bar`.
 
   
 
-Temperatura y Ley Cero
-
-----------------------
-
-  
+## Temperatura y Ley Cero
 
 Debido al papel fundamental que la temperatura juega en el estudio de la termodinámica, es conveniente considerar ahora con cierto detenimiento esta magnitud, aunque una definición completa no se pueda obtener hasta abordar el estudio del segundo principio.
 
@@ -1039,6 +1027,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwNjAwMzEzLC0xNTY2Mzg3MTMwLDIwMD
-AyNTY4NTUsMzAyMTk2MTAwXX0=
+eyJoaXN0b3J5IjpbLTQyMjk0NDk5OSw4ODA2MDAzMTMsLTE1Nj
+YzODcxMzAsMjAwMDI1Njg1NSwzMDIxOTYxMDBdfQ==
 -->
