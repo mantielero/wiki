@@ -917,20 +917,17 @@ En un sistema dado, tras un proceso,la presión se hace el doble de la inicial. 
 En un depósito de 40 m3 hay 60 kg de un determinado gas. Mediante un tabique que ajusta herméticamente, se divide el depósito en dos partes iguales. El gas contenido en una de las partes se introduce en otro depósito, comprimiéndolo, hasta ocupar 1 m3, mientras que el gas de la otra mitad se expande hasta llenar por completo el depósito inicial. Determínense las densidades finales del gas en ambos recintos.
 
   
+----
 
-Ejercicio 1.8 ¿Cuál será la temperatura doble correspondiente a 25 °C?
+### Ejercicio 1.8
+¿Cuál será la temperatura doble correspondiente a 25 °C?
 
-  
+----  
 
-Ejercicio 1.9 A continuación se muestran las lecturas obtenidas con un termómetro de gas a volumen constante, correspondientes a la determinación de las temperaturas de dos sistemas A
-
-y b.
-
-  
+### Ejercicio 1.9
+A continuación se muestran las lecturas obtenidas con un termómetro de gas a volumen constante, correspondientes a la determinación de las temperaturas de dos sistemas A y b.
 
 Sistema A:
-
-  
 
 Sistema B:
 
@@ -942,11 +939,9 @@ p (kPa)	60,0	50,0 40,0	30,0	20,0	10,0
 
 P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
-  
-
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjE3MTU0NywtMTM5MTYzNTczMCwtMT
-Q3MTk1MzAzMSw4ODA2MDAzMTMsLTE1NjYzODcxMzAsMjAwMDI1
-Njg1NSwzMDIxOTYxMDBdfQ==
+eyJoaXN0b3J5IjpbLTE5MTQ0ODMzMTMsLTEzOTE2MzU3MzAsLT
+E0NzE5NTMwMzEsODgwNjAwMzEzLC0xNTY2Mzg3MTMwLDIwMDAy
+NTY4NTUsMzAyMTk2MTAwXX0=
 -->
