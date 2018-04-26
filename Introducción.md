@@ -415,28 +415,21 @@ en que $\Delta V'$ es el volumen más pequeño compatible con la idea de distrib
  
 El volumen específico se define como volumen por unidad de masa y, por tanto, es la inversa de la densidad:
 
-
-.. math::
-
+$$
  v = \frac{1}{\rho}
+$$
 
-Como sistema de unidades utilizaremos fundamentalmente el S.I., por lo que las unidades de las magnitudes definidas serán el :math:`kg \cdot m^{-3}` y el :math:`m^{-3} \cdot kg^{-1}`, respectivamente.
-
-  
-
-Presión
-
--------
+Como sistema de unidades utilizaremos fundamentalmente el S.I., por lo que las unidades de las magnitudes definidas serán el $kg \cdot m^{-3}$ y el $m^{-3} \cdot kg^{-1}$, respectivamente.
 
   
+
+## Presión
 
 Se define la presión *p* en un punto de la superficie límite de un sistema en equilibrio, como la componente normal de la fuerza mecánica ejercida sobre la unidad de área de la superficie en el punto mencionado. Si se designa por :math:`\delta F_n` la componente normal citada y por :math:`\delta A` el elemento de superficie en el entorno del punto sobre el que se ejerce :math:`\delta F_n`, *p* vendrá dada por:
 
-  
-
-.. math::
-
+$$
  p =  \lim_{\Delta A \rightarrow \Delta A'} \frac{\Delta F_n}{\Delta A}
+$$
 
 en la que :math:`\Delta A'` es el elemento de superficie más pequeño compatible con la hipótesis de distribución continua de materia.
 
@@ -1070,6 +1063,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzE3OTIwNSwtMTU2NjM4NzEzMCwyMD
-AwMjU2ODU1LDMwMjE5NjEwMF19
+eyJoaXN0b3J5IjpbMzYyNTQ5NDI4LC0xNTY2Mzg3MTMwLDIwMD
+AyNTY4NTUsMzAyMTk2MTAwXX0=
 -->
