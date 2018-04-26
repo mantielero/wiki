@@ -860,47 +860,34 @@ Normalmente, la calibración de los instrumentos utilizados en la determinación
 
 ## EJERCICIOS
 
-Ejercicio 1.1 Para estudiar el comportamiento termodinámico del congelador de su frigorífico:
-
-  
-
+### Ejercicio 1.1 
+Para estudiar el comportamiento termodinámico del congelador de su frigorífico:
 a) ¿Qué consideraría como sistema?
-
 b) ¿El sistema es abierto ocerrado?
-
 c) ¿De qué tipo son los límites del mismo?
-
 d) ¿Qué elementos integran su medio ambiente?
 
  ----
 
-Ejercicio 1.2 Se debe estudiar termodinàmicamente el llenado de una botella de gas:
-
-  
-
+### Ejercicio 1.2
+Se debe estudiar termodinàmicamente el llenado de una botella de gas:
 a) Seleccione el sistema adecuado y responda a las preguntas del ejercicio anterior,
-
 b) Considere, sucesivamente, un sistema abierto y uno cerrado.
 
 ----
 
-Ejercicio 1.3 De las siguientes propiedades, diga cuál es intensiva y cuál extensiva:
-
-  
-
+### Ejercicio 1.3
+De las siguientes propiedades, diga cuál es intensiva y cuál extensiva:
 a) Volumen,
-
 b) Densidad,
-
 c) Indice de refracción.
-
 d) Y = A - B / C (en la que A, B y C son propiedades extensivas).
-
 e) Z = H - p / G (en la que H y G son variables extensivas y p una variable intensiva).
 
-  
+----  
 
-Ejercicio 1.4 De las expresiones siguientes, determine cuál o cuáles corresponden a propiedades termodinámicas y cuál o cuáles no, si x e y son variables de estado y a y b constantes:
+Ejercicio 1.4
+De las expresiones siguientes, determine cuál o cuáles corresponden a propiedades termodinámicas y cuál o cuáles no, si x e y son variables de estado y a y b constantes:
 
   
 
@@ -964,7 +951,7 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0Mzg5OTk3MiwtMTM5MTYzNTczMCwtMT
-Q3MTk1MzAzMSw4ODA2MDAzMTMsLTE1NjYzODcxMzAsMjAwMDI1
-Njg1NSwzMDIxOTYxMDBdfQ==
+eyJoaXN0b3J5IjpbLTE4NTQ4OTIxMzUsLTEzOTE2MzU3MzAsLT
+E0NzE5NTMwMzEsODgwNjAwMzEzLC0xNTY2Mzg3MTMwLDIwMDAy
+NTY4NTUsMzAyMTk2MTAwXX0=
 -->
