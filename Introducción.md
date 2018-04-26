@@ -274,7 +274,7 @@ Según lo que acaba de verse, si *Y* es una propiedad de un sistema simple que c
 
  y \approx n^1 (\alpha = 1), extensiva
 
-Así, el volumen total *V* es extensiva, ya que si se duplica el número de moles del sistema, conservando constantes todos los parámetros intensivos, el volumen se duplica. Por otro lado, el volumen total dividido entre el número de moles del sistema proporciona el volumen específico molar (:math:`v = \frac{V}{n}`) que es una variable intensiva.
+Así, el volumen total *V* es extensiva, ya que si se duplica el número de moles del sistema, conservando constantes todos los parámetros intensivos, el volumen se duplica. Por otro lado, el volumen total dividido entre el número de moles del sistema proporciona el volumen específico molar ($v = \frac{V}{n}$) que es una variable intensiva.
 
 Conviene tener claro que cualquier propiedad extensiva *Y* tiene una variable intensiva correspondiente :math:`\frac{Y}{n}`, pero la inversa no es siempre cierta ya que variables como *T* y *p* no poseen sus correspondientes extensivas.
 
@@ -292,12 +292,9 @@ en otras palabras, *Y* es homogénea de grado uno.
   
 
 Considerando que *Y* sea una propiedad intensiva, al duplicar las *X* se deja sin alterar la *Y*, o en general:
-
-  
-
-.. math::
-
+$$
  Y(\lambda X_1,\lambda X_2, ..., \lambda X_n) = Y(X_1, ..., X_n)
+$$
 
 por lo que *Y* es homogénea de grado cero.
 
@@ -1165,5 +1162,5 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjE0MTk5MzIsMzAyMTk2MTAwXX0=
+eyJoaXN0b3J5IjpbMTI3NTA1NjUxMCwzMDIxOTYxMDBdfQ==
 -->
