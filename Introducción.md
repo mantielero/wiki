@@ -438,19 +438,13 @@ Conviene destacar que, ya que un fluido en equilibrio no puede soportar esfuerzo
 
 De forma análoga, la fuerza que actúa sobre un área $\Delta A$ en un punto del interior de un fluido en equilibrio, es normal al área e independiente de la orientación de dicha superficie, por lo que la presión en cualquier punto en una superficie, en el interior de un fluido en equilibrio, depende solamente de la posición de $\Delta A$ y no de la orientación. A este tipo de presión se la suele denominar hidrostática y se simboliza con la letra *p*.
 
-  
+Como consecuencia de lo dicho, resulta evidente que en ausencia de campos de fuerza o paredes rígidas interiores, la presión de un fluido en equilibrio, es uniforme sobre su límite y en el interior del mismo.  
 
-Como consecuencia de lo dicho, resulta evidente que en ausencia de campos de fuerza o paredes rígidas interiores, la presión de un fluido en equilibrio, es uniforme sobre su límite y en el interior del mismo.
+En ingeniería es normal que la presión de un sistema se mida respecto a la atmosférica ($p_{atm}$) en vez de hacerlo respecto al vacío, denominándose entonces presión manométrica, $p_{man}$. En la figura 1.2 se representa un esquema del sistema utilizado frecuentemente en la determinación de la presión y de ella se deduce con facilidad:
 
-  
-
-En ingeniería es normal que la presión de un sistema se mida respecto a la atmosférica (:math:`p_{atm}`) en vez de hacerlo respecto al vacío, denominándose entonces presión manométrica, :math:`p_{man}`. En la figura 1.2 se representa un esquema del sistema utilizado frecuentemente en la determinación de la presión y de ella se deduce con facilidad:
-
-  
-
-.. math::
-
+$$
  p_a = p_{man}+p_{atm}
+$$
 
 .. figure:: ./img/presion_absoluta_manometrica.png
 
@@ -460,13 +454,7 @@ En ingeniería es normal que la presión de un sistema se mida respecto a la atm
 
   
 
-   Relación entre presión absoluta :math:`p_a` y presión manométrica :math:`p_{man}`
-
-  
-
-  
-
-  
+   Relación entre presión absoluta $p_a$ y presión manométrica $p_{man}$
 
 Es preciso insistir en que la magnitud que utiliza la termodinámica es la presión absoluta (que es la que define el estado del sistema) y no la manométrica, por lo que hay que ser muy cuidados a la hora de utilizar esta magnitud.
 
@@ -1056,6 +1044,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzUzMDg3NjYsLTE1NjYzODcxMzAsMj
-AwMDI1Njg1NSwzMDIxOTYxMDBdfQ==
+eyJoaXN0b3J5IjpbMTI0NzEzNTgwNCwtMTU2NjM4NzEzMCwyMD
+AwMjU2ODU1LDMwMjE5NjEwMF19
 -->
