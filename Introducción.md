@@ -131,10 +131,8 @@ Cuando se estudia el flujo de gas a través de un conducto, el sistema a conside
 
    :align: right
 
-  
 
    Masa de control
-
 
 En el estudio de un gas contenido en un cilindro provisto de émbolo, el sistema será normalmente el gas contenido dentro del cilindro. En este caso, aunque el volumen del sistema varíe, el sistema será un sistema cerrado mientras el émbolo se mueva en el cilindro y no sobrepase el límite del mismo. En el estudio de plantas de potencia se verá que las transformaciones que tienen lugar en las mismas se pueden analizar considerando un determinado elemento de masa de fluido (sistema cerrado) y siguiendo su evolución a lo largo de la instalación, o considerando un determinado volumen de control y realizando sobre él el análisis correspondiente.
 
@@ -1193,6 +1191,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTgxMjE0NzIsLTUwMTAzNzc3MCwtMT
+eyJoaXN0b3J5IjpbLTE3NjQyODg5MzIsLTUwMTAzNzc3MCwtMT
 Q1OTI3MzczOF19
 -->
