@@ -268,6 +268,9 @@ También se verifica que si una función es homogénea de grado $\alpha$  su der
 
 Según lo que acaba de verse, si *Y* es una propiedad de un sistema simple que contiene *n* moles de sustancia, *Y* será intensiva o extensiva según sea proporcional a $n^0$ o a $n^1$, respectivamente:
 
+  
+
+.. math::
 
  Y \approx n^0 (\alpha = 0), intensiva\\
 
@@ -1175,6 +1178,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDk1NTQ1NTQsLTE3NjQyODg5MzIsLT
-UwMTAzNzc3MCwtMTQ1OTI3MzczOF19
+eyJoaXN0b3J5IjpbLTk2ODQ0ODgzMCwtMTc2NDI4ODkzMiwtNT
+AxMDM3NzcwLC0xNDU5MjczNzM4XX0=
 -->
