@@ -464,10 +464,10 @@ La determinación de la presión mediante la lectura de una columna de líquido,
 
 
 
-$$\begin{array}c}
- p_z \delta A &= p_{z+dz} \delta A + \rho g \delta A dz\\
- p_z &= p_{z+dz} + \rho g dz\\
- -dp &= \rho g dz\\
+$$\begin{array}{c}
+ p_z \delta A &= p_{z+dz} \delta A + \rho g \delta A dz \\
+ p_z &= p_{z+dz} + \rho g dz \\
+ -dp &= \rho g dz \\
  p_2-p_1 &= \delta p = - \rho g (z_2-z_1)
 \end{array}$$
 
@@ -1039,6 +1039,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQ2MzU5NzgsLTE1NjYzODcxMzAsMj
-AwMDI1Njg1NSwzMDIxOTYxMDBdfQ==
+eyJoaXN0b3J5IjpbODgwNjAwMzEzLC0xNTY2Mzg3MTMwLDIwMD
+AyNTY4NTUsMzAyMTk2MTAwXX0=
 -->
