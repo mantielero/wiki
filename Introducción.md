@@ -425,25 +425,18 @@ Como sistema de unidades utilizaremos fundamentalmente el S.I., por lo que las u
 
 ## Presión
 
-Se define la presión *p* en un punto de la superficie límite de un sistema en equilibrio, como la componente normal de la fuerza mecánica ejercida sobre la unidad de área de la superficie en el punto mencionado. Si se designa por :math:`\delta F_n` la componente normal citada y por :math:`\delta A` el elemento de superficie en el entorno del punto sobre el que se ejerce :math:`\delta F_n`, *p* vendrá dada por:
-
+Se define la presión *p* en un punto de la superficie límite de un sistema en equilibrio, como la componente normal de la fuerza mecánica ejercida sobre la unidad de área de la superficie en el punto mencionado. Si se designa por $\delta F_n$ la componente normal citada y por $\delta A$ el elemento de superficie en el entorno del punto sobre el que se ejerce $\delta F_n$, *p* vendrá dada por:
 $$
  p =  \lim_{\Delta A \rightarrow \Delta A'} \frac{\Delta F_n}{\Delta A}
 $$
 
-en la que :math:`\Delta A'` es el elemento de superficie más pequeño compatible con la hipótesis de distribución continua de materia.
-
-  
+en la que $\Delta A'$ es el elemento de superficie más pequeño compatible con la hipótesis de distribución continua de materia.
 
 La definición de *p* enunciada también se aplica en el interior de un fluido.
 
-  
+Conviene destacar que, ya que un fluido en equilibrio no puede soportar esfuerzos tangenciales, la única fuerza que actúa sobre un elemento de área $\Delta A$ en un punto de la frontera, es normal a la mencionada superficie.
 
-Conviene destacar que, ya que un fluido en equilibrio no puede soportar esfuerzos tangenciales, la única fuerza que actúa sobre un elemento de área :math:`\Delta A` en un punto de la frontera, es normal a la mencionada superficie.
-
-  
-
-De forma análoga, la fuerza que actúa sobre un área :math:`\Delta A` en un punto del interior de un fluido en equilibrio, es normal al área e independiente de la orientación de dicha superficie, por lo que la presión en cualquier punto en una superficie, en el interior de un fluido en equilibrio, depende solamente de la posición de :math:`\Delta A` y no de la orientación. A este tipo de presión se la suele denominar hidrostática y se simboliza con la letra *p*.
+De forma análoga, la fuerza que actúa sobre un área $\Delta A$ en un punto del interior de un fluido en equilibrio, es normal al área e independiente de la orientación de dicha superficie, por lo que la presión en cualquier punto en una superficie, en el interior de un fluido en equilibrio, depende solamente de la posición de $\Delta A$ y no de la orientación. A este tipo de presión se la suele denominar hidrostática y se simboliza con la letra *p*.
 
   
 
@@ -1063,6 +1056,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyNTQ5NDI4LC0xNTY2Mzg3MTMwLDIwMD
-AyNTY4NTUsMzAyMTk2MTAwXX0=
+eyJoaXN0b3J5IjpbLTE5MzUzMDg3NjYsLTE1NjYzODcxMzAsMj
+AwMDI1Njg1NSwzMDIxOTYxMDBdfQ==
 -->
