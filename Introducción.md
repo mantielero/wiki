@@ -782,9 +782,6 @@ La definición de los cinco posibles tipos de termómetros no resuelve el proble
 
 ### Termómetro de gas a volumen constante
 
--------------------------------------
-
-  
 
 La figura 1.10 muestra un esquema muy simplificado de un termómetro de gas a volumen constante. Los materiales, construcción y dimensiones varían de unos laboratorios e institutos nacionales a otros, dependiendo de la naturaleza del gas y del intervalo de temperaturas que se intenta medir. En esta figura, el gas se halla contenido en el depósito B, que comunica con la columna de mercurio M a través de un capilar. El volumen del gas se mantiene constante modificando la altura de la columna M hasta que el nivel de mercurio toque exactamente el índice en el espacio situado encima de M, denominado "espacio muerto" o "volumen perjudicial". Se varía el nivel de la columna M subiendo o bajando el tubo M’ unido a M mediante un tubo flexible.
 
@@ -979,6 +976,7 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzE5NTMwMzEsODgwNjAwMzEzLC0xNT
-Y2Mzg3MTMwLDIwMDAyNTY4NTUsMzAyMTk2MTAwXX0=
+eyJoaXN0b3J5IjpbMTc1MDQ1NDM1OCwtMTQ3MTk1MzAzMSw4OD
+A2MDAzMTMsLTE1NjYzODcxMzAsMjAwMDI1Njg1NSwzMDIxOTYx
+MDBdfQ==
 -->
