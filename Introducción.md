@@ -1027,12 +1027,9 @@ Escala Internacional de Temperatura
 
 Para evitar la molestia que conlleva la utilización de la escala de gas ideal se utiliza una serie de termómetros secundarios, cuya calibración se realiza basándose en la escala de gas ideal. Para ello, se divide la escala de temperatura en intervalos y en cada uno se utiliza un termómetro secundario con funciones que relacionan los valores medidos con este termómetro y los correspondientes valores de la escala de gas ideal.
 
-  
-
 La última versión de la ESCALA INTERNACIONAL DE TEMPERATURA es la correspondiente a 1990 (ITS-90). Esta escala se extiende desde 0,65 K a las temperaturas más altas que pueden medirse utilizando un método óptico. En los intervalos más bajos utiliza, o bien un termómetro de gas He, o bien la determinación de temperatura basada en las relaciones presión de vapor-temperatura para 3He y 4He. Entre 14 K y 904 K utiliza un termómetro de resistencia de platino y un polinomio que expresa T en función de R (resistencia eléctrica) y cuyas constantes se calculan utilizando distintos puntos fijos determinados con la escala de gas ideal. Desde 904 a 1338 K, se emplea un termopar de platino platino-rodio y el correspondiente polinomio y puntos fijos de referencia. Por encima de esta temperatura se recurre a la pirometría óptica.
 
 Normalmente, la calibración de los instrumentos utilizados en la determinación de temperatura se basa en esta escala, mucho más fácil de aplicar que la del gas ideal, y en su definición se ha cuidado de que las diferencias se hallen dentro de la sensibilidad de los instrumentos utilizados.
- 
 
  ## EJERCICIOS
 
@@ -1140,5 +1137,5 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDEwMTMwNywzMDIxOTYxMDBdfQ==
+eyJoaXN0b3J5IjpbMjAwMDI1Njg1NSwzMDIxOTYxMDBdfQ==
 -->
