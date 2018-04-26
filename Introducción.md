@@ -548,31 +548,19 @@ Considérese la experiencia siguiente, esquematizada en la figura 1.5: dos recip
 a)	que la presión inicial en cada uno de los recipientes se mantenga después de un tiempo suficientemente largo, de forma que $p_{A}'' = p_{A}'$ y $p_{B}'' = p_{B}'$.
 b)	que la presión vaya cambiando y después de un tiempo suficientemente largo $p_A'' = p_B''$.
 
-  
-
 En el caso a) se dice que:
 
-  
-
 - los dos sistemas no están en contacto térmico.
-
 - las paredes del recipiente están formadas por una sustancia que es un aislante térmico.
-
 - las paredes se denominan adiabáticas
 
   
 
 Si lo que se produce es el proceso b):
 
-  
-
 - los dos sistemas están, por definición, en contacto térmico.
-
 - los recipientes están formados por una sustancia que se dice es conductora térmica.
-
 - las paredes se denominan diatérmanas o diatérmicas.
-
-  
 
 En este último caso los sistemas A y B se hallan, por definición, en equilibrio térmico una vez alcanzado un estado que se mantiene independientemente del tiempo. Puede constatarse la existencia de equilibrio térmico porque, una vez alcanzado éste y aislado el conjunto del exterior, la presión no cambia.
 
@@ -600,19 +588,11 @@ o diatérmana. Por lo tanto, la consideración de pared adiabática o diatérman
 
   
 
-Principio Cero de la Termodinámica
-
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-  
+### Principio Cero de la Termodinámica
 
 Considérese que se dispone de tres sistemas, cuyas propiedades pueden medirse mediante la instrumentación adecuada, limitados por paredes diatérmanas, rígidas e impermeables. Para concretar, supóngase que son gases confinados en un volumen determinado, cuya masa y presión se puede determinar. Los tres sistemas se hallan dispuestos en el interior de un recipiente aislado y, mediante tabiques adiabáticos móviles, se aíslan unos de otros.
 
-  
-
 Mediante el desplazamiento del tabique que separa A y B, se permite que estos establezcan contacto térmico. Si las propiedades de A y B no cambian después de que este contacto térmico se produzca, puede decirse que A y B están en equilibrio térmico. De forma análoga, se puede establecer el contacto térmico entre A y C, y si se ve que tampoco hay variación en las propiedades, se dice que hay equilibrio térmico entre A y C.
-
-  
 
 Una vez realizados los procesos anteriores, si se ponen en contacto térmico B y C, se observa que tampoco se producen modificaciones en las propiedades de estos sistemas, por lo que se puede afirmar que también se encuentran en equilibrio térmico.
 
@@ -1014,6 +994,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjMwNDU1LDg4MDYwMDMxMywtMTU2Nj
-M4NzEzMCwyMDAwMjU2ODU1LDMwMjE5NjEwMF19
+eyJoaXN0b3J5IjpbLTEwOTIxNTk4MjgsODgwNjAwMzEzLC0xNT
+Y2Mzg3MTMwLDIwMDAyNTY4NTUsMzAyMTk2MTAwXX0=
 -->
