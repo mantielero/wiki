@@ -858,7 +858,7 @@ La última versión de la ESCALA INTERNACIONAL DE TEMPERATURA es la correspondie
 
 Normalmente, la calibración de los instrumentos utilizados en la determinación de temperatura se basa en esta escala, mucho más fácil de aplicar que la del gas ideal, y en su definición se ha cuidado de que las diferencias se hallen dentro de la sensibilidad de los instrumentos utilizados.
 
- ## EJERCICIOS
+## EJERCICIOS
 
 Ejercicio 1.1 Para estudiar el comportamiento termodinámico del congelador de su frigorífico:
 
@@ -964,7 +964,7 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTE2MzU3MzAsLTE0NzE5NTMwMzEsOD
-gwNjAwMzEzLC0xNTY2Mzg3MTMwLDIwMDAyNTY4NTUsMzAyMTk2
-MTAwXX0=
+eyJoaXN0b3J5IjpbLTQ0Mzg5OTk3MiwtMTM5MTYzNTczMCwtMT
+Q3MTk1MzAzMSw4ODA2MDAzMTMsLTE1NjYzODcxMzAsMjAwMDI1
+Njg1NSwzMDIxOTYxMDBdfQ==
 -->
