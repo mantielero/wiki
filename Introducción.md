@@ -349,9 +349,7 @@ Para estudiar termodinàmicamente un determinado proceso no es condición impres
 
   
 
-## Método termodinàmico y metodo estadístico
-
-  
+## Método termodinámico y metodo estadístico
 
 El estudio de los procesos que tienen lugar en los sistemas macroscópicos, es decir, sistemas formados por un gran número de micro partículas (átomos, moléculas, iones, etc., dependiendo de la clase de sistema) puede abordarse siguiendo dos métodos:
 
@@ -401,33 +399,22 @@ Es claro, de lo visto antes, que ni la Termodinámica ni la Física Estadística
 
   
 
-Densidad y volumen específico
-
------------------------------
-
-  
+## Densidad y volumen específico
 
 A continuación se considera la definición de algunas magnitudes que ya han sido utilizadas en los estudios realizados con anterioridad y de las que se tendrá que hacer uso en Termodinámica.
 
-  
-
 La densidad de una sustancia se define como la masa por unidad de volumen y se designa
 
-por :math:`\rho`:
-
-  
-
-.. math::
-
+por $\rho$:
+$$
  \rho = \lim_{\Delta V \rightarrow \Delta V'} \frac{\Delta m}{\Delta V}
+$$
 
-en que :math:`\Delta V'` es el volumen más pequeño compatible con la idea de distribución continua de materia, y ésta es la condición que ha de cumplirse a fin de que esta magnitud sea aplicable en el razonamiento termodinámico.
+en que $\Delta V'$ es el volumen más pequeño compatible con la idea de distribución continua de materia, y ésta es la condición que ha de cumplirse a fin de que esta magnitud sea aplicable en el razonamiento termodinámico.
 
-  
-
+ 
 El volumen específico se define como volumen por unidad de masa y, por tanto, es la inversa de la densidad:
 
-  
 
 .. math::
 
@@ -1083,6 +1070,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTk4NDYwMSwtMTU2NjM4NzEzMCwyMD
+eyJoaXN0b3J5IjpbLTg3NzE3OTIwNSwtMTU2NjM4NzEzMCwyMD
 AwMjU2ODU1LDMwMjE5NjEwMF19
 -->
