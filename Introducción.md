@@ -263,11 +263,11 @@ $$\begin{array}{c}
  y &\approx n^1 (\alpha = 1) &\text{, extensiva}
 \end{array}$$
 
-Así, el volumen total *V* es extensiva, ya que si se duplica el número de moles del sistema, conservando constantes todos los parámetros intensivos, el volumen se duplica. Por otro lado, el volumen total dividido entre el número de moles del sistema proporciona el volumen específico molar $v = \frac{V}{n}$ que es una variable intensiva.
+Así, el volumen total *V* es extensiva, ya que si se duplica el número de moles del sistema, conservando constantes todos los parámetros intensivos, el volumen se duplica. Por otro lado, el volumen total dividido entre el número de moles del sistema proporciona el volumen específico molar $\left( v = \frac{V}{n} \right)$ que es una variable intensiva.
 
-Conviene tener claro que cualquier propiedad extensiva *Y* tiene una variable intensiva correspondiente :math:`\frac{Y}{n}`, pero la inversa no es siempre cierta ya que variables como *T* y *p* no poseen sus correspondientes extensivas.
+Conviene tener claro que cualquier propiedad extensiva *Y* tiene una variable intensiva correspondiente $\frac{Y}{n}$, pero la inversa no es siempre cierta ya que variables como *T* y *p* no poseen sus correspondientes extensivas.
 
-Para aclarar lo expuesto, supóngase que *Y* es una propiedad extensiva dependiente de otras propiedades extensivas :math:`X_i`. El requisito de que *Y* sea una propiedad extensiva significa que si se duplican las :math:`X_i`, se duplica *Y*, es decir:
+Para aclarar lo expuesto, supóngase que *Y* es una propiedad extensiva dependiente de otras propiedades extensivas $X_i$. El requisito de que *Y* sea una propiedad extensiva significa que si se duplican las $X_i$, se duplica *Y*, es decir:
 $$
  Y( 2X_1, 2X_2, ..., 2X_n) = 2 Y(X_1, ..., X_n)
  $$
@@ -289,7 +289,7 @@ por lo que *Y* es homogénea de grado cero.
 
   
 
-Resumiendo, si *Y* es una propiedad que depende de variables extensivas :math:`X_i`, resultará que *Y* será una propiedad extensiva si es homogénea de grado uno, y será intensiva si es homogénea de grado cero. Según se vió antes al considerar la derivada de orden *p* de una función homogénea, si *Y* es extensiva, la primera derivada respecto a una variable extensiva será una propiedad intensiva.
+Resumiendo, si *Y* es una propiedad que depende de variables extensivas $X_i$, resultará que *Y* será una propiedad extensiva si es homogénea de grado uno, y será intensiva si es homogénea de grado cero. Según se vió antes al considerar la derivada de orden *p* de una función homogénea, si *Y* es extensiva, la primera derivada respecto a una variable extensiva será una propiedad intensiva.
 
   
 
@@ -297,11 +297,7 @@ A lo largo del curso se utilizará con frecuencia el criterio de homogeneidad.
 
   
 
-Fase y sustancia pura
-
-^^^^^^^^^^^^^^^^^^^^^
-
-  
+### Fase y sustancia pura
 
 Con la palabra fase se hace referencia a la materia que se presenta con una composición química y estructura física determinadas, es decir, una sustancia se presenta en una fase dada cuando es homogénea en todos sus puntos, tanto en composición como en estructura física.
 
@@ -1115,6 +1111,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDEwODM1OTQsLTE1NjYzODcxMzAsMj
-AwMDI1Njg1NSwzMDIxOTYxMDBdfQ==
+eyJoaXN0b3J5IjpbLTQzOTI1ODEyNywtMTU2NjM4NzEzMCwyMD
+AwMjU2ODU1LDMwMjE5NjEwMF19
 -->
