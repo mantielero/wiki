@@ -658,9 +658,7 @@ Se toman dos sistemas, A y B, en equilibrio térmico. Las propiedades elegidas p
 
   
 
-Se puede variar el estado del sistema A, manteniendo el contacto térmico con B, de forma que se garantice la existencia de equilibrio térmico. La experiencia muestra que existen parejas de valores $(X_i^A, Y_i^A)$ con $i = 2, 3,...$, correspondientes a estados del sistema A en equilibrio térmico con el estado original del sistema B, y por tanto, en equilibrio térmico entre sí. Se denomina *isoterma* al lugar geométrico de los puntos :math:`(X_i^A, Y_i^A)` que corresponden a estados de un sistema en equilibrio térmico entre sí. La curva I de la figura 1.7 puede ser una de estas isotermas.
-
-  
+Se puede variar el estado del sistema A, manteniendo el contacto térmico con B, de forma que se garantice la existencia de equilibrio térmico. La experiencia muestra que existen parejas de valores $(X_i^A, Y_i^A)$ con $i = 2, 3,...$, correspondientes a estados del sistema A en equilibrio térmico con el estado original del sistema B, y por tanto, en equilibrio térmico entre sí. Se denomina *isoterma* al lugar geométrico de los puntos $(X_i^A, Y_i^A)$ que corresponden a estados de un sistema en equilibrio térmico entre sí. La curva I de la figura 1.7 puede ser una de estas isotermas.
 
 Repitiendo la experiencia con distintos estados iniciales del sistema B, que ha servido de base de comparación, se obtendría una red o conjunto de isotermas del sistema A (curvas I, II y III de la figura 1.7). Procediendo de manera análoga con B, pero tomando ahora el sistema A como referencia, se tendrían ahora las curvas I’ ( estados de equilibrio térmico con los estados I de A), II’ (equilibrio con II) y III’ (equilibrio con III) de la figura 1.7.
 
@@ -670,10 +668,7 @@ Las curvas I y I’ que corresponden a estados de los dos sistemas en equilibrio
 
   
 
-Escala de temperatura y termómetros
-
-'''''''''''''''''''''''''''''''''''
-
+#### Escala de temperatura y termómetros
   
 
 Se ha visto en el apartado anterior cómo puede obtenerse una familia de isotermas para un sistema determinado y cómo conseguir esto para otros sistemas a partir de ellas. Para establecer una escala de temperatura se tendrá que asignar, de forma biunívoca, un número a cada conjunto (par, en el caso descrito) de isotermas correspondientes. De esta forma se dispondrá de una cuantificación empírica de la magnitud temperatura.
@@ -754,9 +749,6 @@ $$
  \frac{\Theta (X)}{\Theta (X_3)} = \frac{X}{X_3}
 $$
 y al haberse asignado a $\Theta (X_3)$ el valor 273,16 se obtiene:
-
-  
-
   
 $$
  \Theta (X) = 273,16 \frac{X}{X_3} K \text{ (Y constante)}
@@ -766,7 +758,6 @@ Al ser el punto triple del agua el único punto fijo en termometria, es importan
   
 
 Figura 1.9 Esquema de la fuente térmica del punto triple del agua
-
   
 
 El recipiente se llena prácticamente con agua destilada perfectamente desgasificada y desionizada; después se hace el vacío, de forma que cuando se cierre sólo contenga agua líquida y vapor de agua. Una vez en estas condiciones, se sitúa en la cavidad central una mezcla frigorífica, con lo que se consigue formar hielo sobre las paredes interiores del recinto al congelarse el agua contenida en el mismo. Posteriormente, se elimina la mezcla frigorífica y en su lugar se sitúa la ampolla del termómetro, con lo que se fundirá una delgada película en contacto con la pared. En estas condiciones quedarán en equilibrio las tres fases (hielo, agua líquida y vapor de agua). Mientras esto suceda tendremos la seguridad de que el recinto se encuentra en el punto triple.
@@ -988,6 +979,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDcyOTIxOSw4ODA2MDAzMTMsLTE1Nj
-YzODcxMzAsMjAwMDI1Njg1NSwzMDIxOTYxMDBdfQ==
+eyJoaXN0b3J5IjpbLTE1MDk3ODM0ODgsODgwNjAwMzEzLC0xNT
+Y2Mzg3MTMwLDIwMDAyNTY4NTUsMzAyMTk2MTAwXX0=
 -->
