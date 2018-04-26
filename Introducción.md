@@ -301,51 +301,25 @@ A lo largo del curso se utilizará con frecuencia el criterio de homogeneidad.
 
 Con la palabra fase se hace referencia a la materia que se presenta con una composición química y estructura física determinadas, es decir, una sustancia se presenta en una fase dada cuando es homogénea en todos sus puntos, tanto en composición como en estructura física.
 
-  
-
 En general, se acostumbra a considerar que distintas fases de una sustancia definida suponen distintos estados de agregación, así se dice que el agua puede presentarse en tres fases distintas: sólido (hielo), líquido (agua líquida) y gas (vapor de agua); no obstante, se han citado hasta siete variedades de hielo, todas sólidas, cada una de las cuales constituye una fase distinta. Algo análogo podría decirse del azufre, fósforo, carbono, etc.
-
-  
 
 Cuando se halla presente más de una fase, las fases están separadas mediante superficies de separación (interfases), al pasar a través de las cuales cambian bruscamente las propiedades físicas o las químicas del sistema. Los gases, en general, se mezclan en cualquier proporción para formar una sola fase. Algunos líquidos denominados miscibles, como el alcohol y el agua, se mezclan para formar una sola fase líquida. Otros líquidos, que se denominan inmiscibles, como el aceite y el agua al mezclarse forman dos fases líquidas.
 
-  
-
 De los sistemas termodinámicos estudiados tienen una importancia fundamental, por la frecuencia con que se presentan, los constituidos por una sustancia pura. Se define una sustancia pura como aquella que tiene una composición química definida. Una sustancia pura puede existir en más de una fase, pero su composición química debe ser la misma en cada una de ellas. Por ejemplo, la mezcla de agua líquida y vapor de agua forma dos fases, pero es una sustancia pura, ya que se tiene la misma composición química en ambas fases. Al estudiar un sistema formado por aire seco, podrá ser considerado como sustancia pura en tanto en cuanto sea una mezcla de gases, pero si por enfriamiento se consigue que aparezca una fase líquida, el sistema ya no estará integrado por una sustancia pura, ya que la composición del líquido es distinta a la de la fase gaseosa.
 
-  
-
-  
-
-Equilibrio
-
-^^^^^^^^^^
-
-  
+### Equilibrio
 
 El estudio de la termodinámica clásica se centra especialmente en el estudio de los estados de equilibrio y la variación de propiedades producidas cuando un sistema pasa de un estado de equilibrio a otro.
 
-  
-
 En estudios previos ya se ha encontrado esta palabra, en primer lugar en mecánica, en donde la condición de equilibrio resultaba de la anulación de la resultante de las fuerzas que se ejercían sobre el punto, o bien la anulación de fuerzas y momentos sobre el cuerpo rígido o sistema de puntos.
-
-  
 
 Cuando se efectúa el estudio termodinámico de un sistema, el concepto de equilibrio tiene mayor alcance y no sólo incluye el equilibrio de fuerzas sino también el de otras interacciones. Cada clase de interacción se refiere a un aspecto particular del equilibrio termodinámico o equilibrio total de un sistema. De acuerdo con lo dicho, deben existir varios tipos de equilibrio particular para completar la condición de equilibrio termodinámico. Entre estos figuran el equilibrio mecánico, el equilibrio térmico y los equilibrios de fase y químico. Más adelante se consideran criterios para estos cuatro tipos de equilibrio, pero de momento es importante conocer la forma de decidir si un sistema se encuentra en estado de equilibrio termodinámico. Para ello, se aisla el sistema de su medio ambiente y se observa qué sucede con sus propiedades. Si no hay cambio una vez aislado el sistema, se puede asegurar que el sistema se hallaba en equilibrio en el momento de aislarlo y se puede afirmar que se encontraba en estado de equilibrio termodinámico, o simplemente en estado de equilibrio.
 
-  
-
 Cuando un sistema se halla en estado de equilibrio, las propiedades del sistema tienen igual valor en cada fase del mismo y de hecho sólo tiene sentido hablar de variables o propiedades del sistema cuando el sistema se encuentra en equilibrio. Considérese, por ejemplo, que se utiliza la presión y la temperatura para describir el estado de un sistema. En este caso, la temperatura del sistema es uniforme en todos los puntos del mismo y, si no existen campos de fuerza externos, también lo es la presión.
-
-  
 
 Para los sistemas termodinámicos son posibles estados en los que las propiedades termodinámicas toman distintos valores en distintos puntos del sistema y, por lo tanto, no son estados de equilibrio. Considérese, por ejemplo, una barra metálica con un extremo en contacto con la pared de un horno y el otro en contacto con la atmósfera. Si este sistema se aisla, se verá que sus variables cambian con el tiempo hasta llegar al equilibrio. El proceso durante el que el sistema pasa de un estado de no equilibrio a un estado de equilibrio se denomina proceso de relajación^ y el tiempo que tarda cada parámetro del sistema en hacerse igual en todo el sistema, se conoce como tiempo de relajación del parámetro dado r. El tiempo total de relajación de un sistema es más largo que los tiempos individuales de relajación.
 
-  
-
 Los tiempos de relajación para los distintos procesos no pueden calcularse dentro del marco de la termodinámica, ya que los fenómenos de relajación son procesos, a nivel molecular, de transferencia de energía, cantidad de movimiento y magnitudes físicas análogas. La evaluación de los tiempos de relajación es un problema de la cinética física.
-
-  
 
 En termodinámica técnica se está más interesados por los procesos (cambios de estado) que por los estados de equilibrio en sí, que no pueden dar lugar a ningún cambio que permita obtener el efecto que se busca en una instalación determinada. Es claro que durante un proceso determinado, cuando el sistema que lo realiza pasa de un estado a otro, no es posible definir el valor de sus propiedades termodinámicas porque éste varía según el punto que se elija en el mismo para efectuar su determinación. A fin de poder estudiar termodinàmicamente estos cambios, se utilizan dos modelos de procesos: procesos reversibles y procesos cuasiestáticos.
 
@@ -375,9 +349,7 @@ Para estudiar termodinàmicamente un determinado proceso no es condición impres
 
   
 
-Método termodinàmico y metodo estadístico
-
------------------------------------------
+## Método termodinàmico y metodo estadístico
 
   
 
@@ -1111,6 +1083,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTI1ODEyNywtMTU2NjM4NzEzMCwyMD
+eyJoaXN0b3J5IjpbMTE1MTk4NDYwMSwtMTU2NjM4NzEzMCwyMD
 AwMjU2ODU1LDMwMjE5NjEwMF19
 -->
