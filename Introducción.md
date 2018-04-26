@@ -770,13 +770,13 @@ El recipiente se llena prácticamente con agua destilada perfectamente desgasifi
 
 Aplicando a los distintos tipos de termómetros el procedimiento que se termina de describir, se dispone de cinco posibilidades de realizar la determinación de temperatura de un sistema dado. Cada una de éstas conduce al resultado siguiente:
 
- $$
-  \Theta (p) &= 273,16 \frac{p}{p_3} K \text{ (V constante)} 
- \Theta (V) &= 273,16 \frac{V}{V_3} K \text{ (p constante)}
- \Theta (R) &= 273,16 \frac{R}{R_3} K \text{ (esfuerzo constante)}
- \Theta (\epsilon) &= 273,16 \frac{\epsilon}{\epsilon_3} K \text{ (esfuerzo constante)}
- \Theta (L) &= 273,16 \frac{L}{L_3} K \text{ (p constante)}
-$$
+ $$\begin{array}{c}
+  \Theta (p) &= 273,16 \frac{p}{p_3} K &\text{ (V constante)}  \\
+ \Theta (V) &= 273,16 \frac{V}{V_3} K &\text{ (p constante)} \\
+ \Theta (R) &= 273,16 \frac{R}{R_3} K &\text{ (esfuerzo constante)} \\
+ \Theta (\epsilon) &= 273,16 \frac{\epsilon}{\epsilon_3} K &\text{ (esfuerzo constante)} \\
+ \Theta (L) &= 273,16 \frac{L}{L_3} K &\text{ (p constante)}
+\end{array}$$
 
 La definición de los cinco posibles tipos de termómetros no resuelve el problema de la determinación de temperatura, ya que si se utilizaran los cinco termómetros simultáneamente en la medida de la temperatura de un sistema determinado, se observarían bastantes discrepancias en los resultados obtenidos con cada uno de los termómetros, dependiendo del intervalo en el que se estuviese midiendo. Aún más, si se eligiese el mismo tipo de termómetro, pero utilizando como sustancia termométrica distintas materias, también se encontrarían diferencias, en algunos casos notables. No obstante, hay termómetros con los que se obtienen resultados más reproducibles, como son los que utilizan gases a presiones moderadas, especialmente :math:`H_2` y :math:`He`. Debido a esto, los gases son las sustancias termométricas más ampliamente utilizadas, y será este tipo de termómetro el que se describirá a continuación. En el libro de **Zemansky4**, se puede encontrar una buena información sobre tipos de termómetros y determinación de temperaturas.
 
@@ -979,6 +979,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk3ODM0ODgsODgwNjAwMzEzLC0xNT
+eyJoaXN0b3J5IjpbLTE0NzE5NTMwMzEsODgwNjAwMzEzLC0xNT
 Y2Mzg3MTMwLDIwMDAyNTY4NTUsMzAyMTk2MTAwXX0=
 -->
