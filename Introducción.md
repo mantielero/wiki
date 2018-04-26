@@ -789,15 +789,8 @@ La figura 1.10 muestra un esquema muy simplificado de un termómetro de gas a vo
 
   
 
-.. note::
-
-  
-
-   3A1 comportarse el líquido como un fluido incompresible, esta condición no influye apreciablemente en la lectura.
-
-  
-
-   4M.W.Zemansky & R.H.Dittman Calor y Termodinámica 1981 McGraw-Hill USA.
+> 3A1 comportarse el líquido como un fluido incompresible, esta condición no influye apreciablemente en la lectura.
+> 4M.W.Zemansky & R.H.Dittman Calor y Termodinámica 1981 McGraw-Hill USA.
 
   
 
@@ -830,15 +823,10 @@ Si se utilizaran distintos gases en la determinación de la temperatura de un de
 
   
 
-Temperatura en la escala de gas ideal
-
-'''''''''''''''''''''''''''''''''''''
-
-  
+### Temperatura en la escala de gas ideal
 
 Como se ha dicho y experimentalmente puede comprobarse, al realizar la determinación de la temperatura de un sistema con un termómetro de gas a volumen constante, utilizando distintos gases, los resultados obtenidos son distintos. No sólo ocurre esto, sino que utilizando cantidades distintas de masa de gas termométrico en el termómetro de volumen constante se obtienen resultados distintos según la cantidad de masa de gas que se ponga en el termómetro.
-
-  
+ 
 
 En la figura 1.11 se han representado los datos experimentales obtenidos al calcular la temperatura de ebullición normal del agua utilizando un termómetro de gas a volumen constante utilizando distintos gases y distintas masas para cada gas, como refleja el valor diferente de presión en el punto triple. Es decir, cuanto menor masa tiene el termómetro, menor es el valor de la presión de vapor en este punto.
 
@@ -976,7 +964,7 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDQ1NDM1OCwtMTQ3MTk1MzAzMSw4OD
-A2MDAzMTMsLTE1NjYzODcxMzAsMjAwMDI1Njg1NSwzMDIxOTYx
-MDBdfQ==
+eyJoaXN0b3J5IjpbLTEzOTE2MzU3MzAsLTE0NzE5NTMwMzEsOD
+gwNjAwMzEzLC0xNTY2Mzg3MTMwLDIwMDAyNTY4NTUsMzAyMTk2
+MTAwXX0=
 -->
