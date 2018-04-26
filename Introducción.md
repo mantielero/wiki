@@ -258,24 +258,16 @@ $$
 $$
 
 en la que las $X_i$ son propiedades extensivas del sistema.
-  
 
 Para estas funciones se cumple el teorema de Euler:
-
-  
 $$
  \sum X_i \frac{\partial Y}{\partial X_i} = \alpha Y
 $$
 
-También se verifica que si una función es homogénea de grado :math:`\alpha`  su derivada de orden *p* es homogénea de grado :math:`\alpha -p`. En esta expresión *p* es un entero positivo, pero :math:`\alpha` no necesita ser un entero mayor que *p*.
+También se verifica que si una función es homogénea de grado $\alpha$  su derivada de orden *p* es homogénea de grado $\alpha -p$. En esta expresión *p* es un entero positivo, pero $\alpha$ no necesita ser un entero mayor que *p*.
 
-  
+Según lo que acaba de verse, si *Y* es una propiedad de un sistema simple que contiene *n* moles de sustancia, *Y* será intensiva o extensiva según sea proporcional a $n^0$ o a $n^1$, respectivamente:
 
-Según lo que acaba de verse, si *Y* es una propiedad de un sistema simple que contiene *n* moles de sustancia, *Y* será intensiva o extensiva según sea proporcional a :math:`n^0` o a :math:`n^1`, respectivamente:
-
-  
-
-.. math::
 
  Y \approx n^0 (\alpha = 0), intensiva\\
 
@@ -1183,6 +1175,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODYyNDIwLC0xNzY0Mjg4OTMyLC01MD
-EwMzc3NzAsLTE0NTkyNzM3MzhdfQ==
+eyJoaXN0b3J5IjpbLTEwMDk1NTQ1NTQsLTE3NjQyODg5MzIsLT
+UwMTAzNzc3MCwtMTQ1OTI3MzczOF19
 -->
