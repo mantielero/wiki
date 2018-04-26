@@ -901,9 +901,7 @@ El recipiente se llena prácticamente con agua destilada perfectamente desgasifi
 
   
 
-Tipos de termómetros. Comparación
-
-'''''''''''''''''''''''''''''''''
+### Tipos de termómetros. Comparación
 
   
 
@@ -1118,6 +1116,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTEwMDE0MCwyMDAwMjU2ODU1LDMwMj
-E5NjEwMF19
+eyJoaXN0b3J5IjpbLTE1NjYzODcxMzAsMjAwMDI1Njg1NSwzMD
+IxOTYxMDBdfQ==
 -->
