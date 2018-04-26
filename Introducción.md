@@ -878,20 +878,17 @@ Si se tiene en cuenta la relación (1.15) y se designa con el subíndice 3 las e
 
   
 
-.. math::
-
+$$
  \frac{\Theta (X)}{\Theta (X_3)} = \frac{X}{X_3}
-
-y al haberse asignado a :math:`\Theta (X_3)` el valor 273,16 se obtiene:
-
-  
+$$
+y al haberse asignado a $\Theta (X_3)$ el valor 273,16 se obtiene:
 
   
 
-.. math::
-
+  
+$$
  \Theta (X) = 273,16 \frac{X}{X_3} K \text{ (Y constante)}
-
+$$
 Al ser el punto triple del agua el único punto fijo en termometria, es importante disponer de una fuente térmica a esta temperatura. Para conseguirla se utiliza un recipiente como el esquematizado en la figura 1.9.
 
   
@@ -1034,17 +1031,12 @@ Para evitar la molestia que conlleva la utilización de la escala de gas ideal s
 
 La última versión de la ESCALA INTERNACIONAL DE TEMPERATURA es la correspondiente a 1990 (ITS-90). Esta escala se extiende desde 0,65 K a las temperaturas más altas que pueden medirse utilizando un método óptico. En los intervalos más bajos utiliza, o bien un termómetro de gas He, o bien la determinación de temperatura basada en las relaciones presión de vapor-temperatura para 3He y 4He. Entre 14 K y 904 K utiliza un termómetro de resistencia de platino y un polinomio que expresa T en función de R (resistencia eléctrica) y cuyas constantes se calculan utilizando distintos puntos fijos determinados con la escala de gas ideal. Desde 904 a 1338 K, se emplea un termopar de platino platino-rodio y el correspondiente polinomio y puntos fijos de referencia. Por encima de esta temperatura se recurre a la pirometría óptica.
 
-  
-
 Normalmente, la calibración de los instrumentos utilizados en la determinación de temperatura se basa en esta escala, mucho más fácil de aplicar que la del gas ideal, y en su definición se ha cuidado de que las diferencias se hallen dentro de la sensibilidad de los instrumentos utilizados.
-
-  
-
-  
+ 
 
  ## EJERCICIOS
 
-Ejercicio 1.1 Para estudiar el comportamiento termodinàmico del congelador de su frigorífico:
+Ejercicio 1.1 Para estudiar el comportamiento termodinámico del congelador de su frigorífico:
 
   
 
@@ -1148,5 +1140,5 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjE2NzMxNiwzMDIxOTYxMDBdfQ==
+eyJoaXN0b3J5IjpbLTU5MDEwMTMwNywzMDIxOTYxMDBdfQ==
 -->
