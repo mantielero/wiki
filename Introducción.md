@@ -626,21 +626,15 @@ un tercero, se encuentran en equilibrio térmico entre sí.*
 
   
 
-Concepto de temperatura
-
-'''''''''''''''''''''''
-
-  
+#### Concepto de temperatura
 
 Si varios sistemas están en equilibrio térmico deben tener alguna característica o propiedad en común y a esta propiedad común la denominamos *temperatura*.
-
-  
 
 Aunque la esencia de este concepto sólo se alcanza a través de la teoría cinético-molecular de la materia o a partir del segundo principio de la termodinámica y de la mecánica estadística, tomando como base el Principio Cero de la Termodinámica se pueden obtener métodos que permiten operar con esta magnitud. Es decir, el Principio Cero permite definir una escala empírica de temperaturas. Para conseguir esto se pueden considerar las experiencias que se describen a continuación.
 
   
 
-Se toman dos sistemas, A y B, en equilibrio térmico. Las propiedades elegidas para caracterizar su estado tendrán unos valores determinados que, suponiendo sistemas simples (como después se verá, son aquéllos que interaccionan mediante una sola forma de trabajo), se pueden designar por los conjuntos :math:`(X_1^A, Y_1^A)` y   :math:`(X_1^B, Y_1^B)`  para cada sistema. Estas parejas de valores se pueden representar en un sistema de ejes adecuados como se indica en la figura 1.7.
+Se toman dos sistemas, A y B, en equilibrio térmico. Las propiedades elegidas para caracterizar su estado tendrán unos valores determinados que, suponiendo sistemas simples (como después se verá, son aquéllos que interaccionan mediante una sola forma de trabajo), se pueden designar por los conjuntos $(X_1^A, Y_1^A)$ y   $(X_1^B, Y_1^B)$  para cada sistema. Estas parejas de valores se pueden representar en un sistema de ejes adecuados como se indica en la figura 1.7.
 
   
 
@@ -664,7 +658,7 @@ Se toman dos sistemas, A y B, en equilibrio térmico. Las propiedades elegidas p
 
   
 
-Se puede variar el estado del sistema A, manteniendo el contacto térmico con B, de forma que se garantice la existencia de equilibrio térmico. La experiencia muestra que existen parejas de valores :math:`(X_i^A, Y_i^A)` con :math:`i = 2, 3,...`, correspondientes a estados del sistema A en equilibrio térmico con el estado original del sistema B, y por tanto, en equilibrio térmico entre sí. Se denomina *isoterma* al lugar geométrico de los puntos :math:`(X_i^A, Y_i^A)` que corresponden a estados de un sistema en equilibrio térmico entre sí. La curva I de la figura 1.7 puede ser una de estas isotermas.
+Se puede variar el estado del sistema A, manteniendo el contacto térmico con B, de forma que se garantice la existencia de equilibrio térmico. La experiencia muestra que existen parejas de valores $(X_i^A, Y_i^A)$ con $i = 2, 3,...$, correspondientes a estados del sistema A en equilibrio térmico con el estado original del sistema B, y por tanto, en equilibrio térmico entre sí. Se denomina *isoterma* al lugar geométrico de los puntos :math:`(X_i^A, Y_i^A)` que corresponden a estados de un sistema en equilibrio térmico entre sí. La curva I de la figura 1.7 puede ser una de estas isotermas.
 
   
 
@@ -994,6 +988,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTIxNTk4MjgsODgwNjAwMzEzLC0xNT
-Y2Mzg3MTMwLDIwMDAyNTY4NTUsMzAyMTk2MTAwXX0=
+eyJoaXN0b3J5IjpbMTMxMDcyOTIxOSw4ODA2MDAzMTMsLTE1Nj
+YzODcxMzAsMjAwMDI1Njg1NSwzMDIxOTYxMDBdfQ==
 -->
