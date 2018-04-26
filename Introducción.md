@@ -258,10 +258,10 @@ También se verifica que si una función es homogénea de grado $\alpha$  su der
 
 Según lo que acaba de verse, si *Y* es una propiedad de un sistema simple que contiene *n* moles de sustancia, *Y* será intensiva o extensiva según sea proporcional a $n^0$ o a $n^1$, respectivamente:
   
-$$
+$$\begin{array}{c}
  Y \approx n^0 (\alpha = 0), intensiva \\
  y \approx n^1 (\alpha = 1), extensiva
-$$
+\end{array}$$
 
 Así, el volumen total *V* es extensiva, ya que si se duplica el número de moles del sistema, conservando constantes todos los parámetros intensivos, el volumen se duplica. Por otro lado, el volumen total dividido entre el número de moles del sistema proporciona el volumen específico molar ($v = \frac{V}{n}$) que es una variable intensiva.
 
@@ -1115,6 +1115,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM4MDk3OTIsLTE1NjYzODcxMzAsMj
-AwMDI1Njg1NSwzMDIxOTYxMDBdfQ==
+eyJoaXN0b3J5IjpbNTU2OTM3NDQ5LC0xNTY2Mzg3MTMwLDIwMD
+AyNTY4NTUsMzAyMTk2MTAwXX0=
 -->
