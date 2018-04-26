@@ -267,9 +267,7 @@ $$
 También se verifica que si una función es homogénea de grado $\alpha$  su derivada de orden *p* es homogénea de grado $\alpha -p$. En esta expresión *p* es un entero positivo, pero $\alpha$ no necesita ser un entero mayor que *p*.
 
 Según lo que acaba de verse, si *Y* es una propiedad de un sistema simple que contiene *n* moles de sustancia, *Y* será intensiva o extensiva según sea proporcional a $n^0$ o a $n^1$, respectivamente:
-
   
-
 .. math::
 
  Y \approx n^0 (\alpha = 0), intensiva\\
@@ -278,28 +276,17 @@ Según lo que acaba de verse, si *Y* es una propiedad de un sistema simple que c
 
 Así, el volumen total *V* es extensiva, ya que si se duplica el número de moles del sistema, conservando constantes todos los parámetros intensivos, el volumen se duplica. Por otro lado, el volumen total dividido entre el número de moles del sistema proporciona el volumen específico molar (:math:`v = \frac{V}{n}`) que es una variable intensiva.
 
-  
-
 Conviene tener claro que cualquier propiedad extensiva *Y* tiene una variable intensiva correspondiente :math:`\frac{Y}{n}`, pero la inversa no es siempre cierta ya que variables como *T* y *p* no poseen sus correspondientes extensivas.
 
-  
-
 Para aclarar lo expuesto, supóngase que *Y* es una propiedad extensiva dependiente de otras propiedades extensivas :math:`X_i`. El requisito de que *Y* sea una propiedad extensiva significa que si se duplican las :math:`X_i`, se duplica *Y*, es decir:
-
-  
-
-.. math::
-
+$$
  Y( 2X_1, 2X_2, ..., 2X_n) = 2 Y(X_1, ..., X_n)
-
+ $$
+ 
 y en general:
-
-  
-
-.. math::
-
+$$
  Y(\lambda X_1,\lambda X_2, ..., \lambda X_n) = \lambda Y(X_1, ..., X_n)
-
+$$
 en otras palabras, *Y* es homogénea de grado uno.
 
   
@@ -1178,5 +1165,5 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODQ0ODgzMCwzMDIxOTYxMDBdfQ==
+eyJoaXN0b3J5IjpbLTEwMjE0MTk5MzIsMzAyMTk2MTAwXX0=
 -->
