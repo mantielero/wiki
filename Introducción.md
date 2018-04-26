@@ -458,23 +458,18 @@ $$
 
 Es preciso insistir en que la magnitud que utiliza la termodinámica es la presión absoluta (que es la que define el estado del sistema) y no la manométrica, por lo que hay que ser muy cuidados a la hora de utilizar esta magnitud.
 
-  
-
 La determinación de la presión mediante la lectura de una columna de líquido, como indica la figura 1.2, es el fundamento de muchos instrumentos utilizados para la medida de presiones. Para evaluar los cambios de presión dentro del fluido, en presencia del campo gravitatorio, se hace un balance de fuerzas en un elemento de la columna fluida, como se muestra en la figura 1.3.
 
   
 
-  
 
-.. math::
 
+$$\begin{array}c}
  p_z \delta A &= p_{z+dz} \delta A + \rho g \delta A dz\\
-
  p_z &= p_{z+dz} + \rho g dz\\
-
  -dp &= \rho g dz\\
-
  p_2-p_1 &= \delta p = - \rho g (z_2-z_1)
+\end{array}$$
 
 .. figure:: ./img/elemento_columna.png
 
@@ -1044,6 +1039,6 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzEzNTgwNCwtMTU2NjM4NzEzMCwyMD
-AwMjU2ODU1LDMwMjE5NjEwMF19
+eyJoaXN0b3J5IjpbLTEyMDQ2MzU5NzgsLTE1NjYzODcxMzAsMj
+AwMDI1Njg1NSwzMDIxOTYxMDBdfQ==
 -->
