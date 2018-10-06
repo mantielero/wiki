@@ -1,4 +1,3 @@
-
 # Introducción. Algunos conceptos y definiciones
 
   
@@ -941,7 +940,8 @@ P3 (kPa)	39,5	34,2 28,4	21,9	14,9	7,57
 
 Determínense dichas temperaturas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODYyMjA5MzYsLTE5MTQ0ODMzMTMsLT
-EzOTE2MzU3MzAsLTE0NzE5NTMwMzEsODgwNjAwMzEzLC0xNTY2
-Mzg3MTMwLDIwMDAyNTY4NTUsMzAyMTk2MTAwXX0=
+eyJoaXN0b3J5IjpbMTk5ODI0NjYwMiwtMTM4NjIyMDkzNiwtMT
+kxNDQ4MzMxMywtMTM5MTYzNTczMCwtMTQ3MTk1MzAzMSw4ODA2
+MDAzMTMsLTE1NjYzODcxMzAsMjAwMDI1Njg1NSwzMDIxOTYxMD
+BdfQ==
 -->
